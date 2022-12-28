@@ -126,8 +126,8 @@ main{
 }
 
 .text{
-    color=white;
-    font-size=1.25rem;
+    color: white;
+    font-size:1.25rem;
 }
 
 .task .content .text:not(:read-only){
